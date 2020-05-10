@@ -5,3 +5,4 @@ Install requirements: pip install -r requirement.txt
 
 Usage: python dictpy.py [Your Word]   |   python3 dictpy.py [Your Word] 
 
+Need internet connection!
